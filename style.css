@@ -1,0 +1,27 @@
+body{
+    background: purple;
+    color: yellow;
+    }
+    
+    .heading{
+        width: 85%;
+        font-size: medium;
+    }
+    
+    #camera{
+        border: 2px dashed black;
+        width: 350px;
+        height: 300px;
+    }
+    
+    .name_of_objects{
+        color: lightgoldenrodyellow;
+    }
+    
+    #result_object_name{
+    color: lightseagreen
+    }
+    
+    #result_object_accuracy{
+        color: lightsalmon
+    }
